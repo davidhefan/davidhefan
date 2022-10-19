@@ -1,7 +1,7 @@
-- 👋 Hi, I’m David.
-- 👀 项目解决方案、项目管理、技术团队管理、技术架构、人工智能技术应用
-- 💞️ 信息系统项目管理师、Project Management Professional、计算机学会会员、人工智能学会会员、Artificial Intelligence Engineer Certificat Of Achievement
-- 🌱 关注和新技术与新媒体相关内容
+- 👋 大家好，我是David。
+- 👀 擅长：项目解决方案、项目管理、技术团队管理、技术架构、人工智能技术应用
+- 💞️ 资质：信息系统项目管理师、Project Management Professional、计算机学会会员、人工智能学会会员、Artificial Intelligence Engineer Certificat Of Achievement
+- 🌱 兴趣：关注和新技术与新媒体相关内容
 - 📫 微信：davidhefan
 
 <!---
